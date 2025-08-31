@@ -1,0 +1,18 @@
+.app-heading{
+    font-weight:700;
+    font-size: 40px; 
+    margin: 10px;
+    margin-bottom: 50px;
+}
+input {
+    width:100%;
+}
+.item-container{
+    text-align:left;
+}
+.kg-row{
+    margin: 17px 1px;
+}
+.kg-button{
+    min-width:80px;
+}
